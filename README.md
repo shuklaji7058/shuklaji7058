@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Anish, a Frontend Developer 👋🏼:
 
-Results-driven Computer Science graduate from Pratibha College of Commerce & Computer Studies (SPPU) with expertise in Python and web development technologies (HTML, CSS, JavaScript, React). Dedicated to bridging academic knowledge with industry requirements through continuous skill refinement, committed to exploring innovative approaches in software development. Eager to contribute to transformative projects that push technological boundaries while creating impactful technological solutions. Proficient in clean coding practices, quick learning, and collaborative teamwork. Seeking Software Developer role to leverage technical skills, drive technological innovation, and pursue continuous professional growth.
+Results-driven Computer Science graduate from Pratibha College of Commerce & Computer Studies (SPPU) with expertise in Python and web development technologies (HTML, CSS, JavaScript, React).Eager to contribute to transformative projects that push technological boundaries while creating impactful technological solutions. Proficient in clean coding practices, quick learning, and collaborative teamwork. Seeking Software Developer role to leverage technical skills, drive technological innovation, and pursue continuous professional growth.
 
 ## 💻 Tech Stack:
 
