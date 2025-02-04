@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # Hello World!, I'm Anish, a Web Developer 👋🏼:
 
