@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Anish, a Web Developer 👋🏼:
 
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+Results-driven Computer Science graduate from Pratibha College of Commerce & Computer Studies (SPPU) with expertise in Python and web development technologies (HTML, CSS, JavaScript, React).Eager to contribute to transformative projects that push technological boundaries while creating impactful technological solutions. Proficient in clean coding practices, quick learning, and collaborative teamwork. Seeking Software Developer role to leverage technical skills, drive technological innovation, and pursue continuous professional growth.
 
 # 💻 Tech Stack:
 
