@@ -2,6 +2,8 @@
 
 # Hello World!, I'm Anish, a Web Developer 👋🏼:
 
+<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 Results-driven Computer Science graduate from Pratibha College of Commerce & Computer Studies (SPPU) with expertise in Python and web development technologies (HTML, CSS, JavaScript, React).Eager to contribute to transformative projects that push technological boundaries while creating impactful technological solutions. Proficient in clean coding practices, quick learning, and collaborative teamwork. Seeking Software Developer role to leverage technical skills, drive technological innovation, and pursue continuous professional growth.
 
 # 💻 Tech Stack:
