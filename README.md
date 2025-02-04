@@ -1,6 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # Hello World!, I'm Anish, a Web Developer 👋🏼:
 
 Results-driven Computer Science graduate from Pratibha College of Commerce & Computer Studies (SPPU) with expertise in Python and web development technologies (HTML, CSS, JavaScript, React).Eager to contribute to transformative projects that push technological boundaries while creating impactful technological solutions. Proficient in clean coding practices, quick learning, and collaborative teamwork. Seeking Software Developer role to leverage technical skills, drive technological innovation, and pursue continuous professional growth.
