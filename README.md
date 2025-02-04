@@ -10,8 +10,8 @@ Results-driven Computer Science graduate from Pratibha College of Commerce & Com
 
 # 🌐 Connect With Me:
 
-[![https://www.linkedin.com/in/anish-shukla-07633b2bb](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![https://resume-phi-beige-64.vercel.app/](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-shukla-07633b2bb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](<[your-portfolio-url](https://resume-phi-beige-64.vercel.app/)>)
 
 # 🏆 GitHub Trophies
 
