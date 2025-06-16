@@ -4,7 +4,10 @@
   <h1>Hello World!, I'm Anish, a Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-Results-driven Computer Science graduate from Pratibha College of Commerce & Computer Studies (SPPU) with expertise in Python and web development technologies (HTML, CSS, JavaScript, React).Eager to contribute to transformative projects that push technological boundaries while creating impactful technological solutions. Proficient in clean coding practices, quick learning, and collaborative teamwork. Seeking Software Developer role to leverage technical skills, drive technological innovation, and pursue continuous professional growth.
+Enthusiastic Computer Science graduate with solid Python and SQL skills. Proficient in backend
+scripting, automation, and RESTful web services. Adept at clean code practices, version control, and
+collaborating on GitHub. Seeking a Python Developer role to solve real-world problems and grow in a
+collaborative environment.
 
 # 💻 Tech Stack:
 
