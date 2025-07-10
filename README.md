@@ -4,10 +4,7 @@
   <h1>Hello World!, I'm Anish, a Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-Enthusiastic Computer Science graduate with solid Python and SQL skills. Proficient in backend
-scripting, automation, and RESTful web services. Adept at clean code practices, version control, and
-collaborating on GitHub. Seeking a Python Developer role to solve real-world problems and grow in a
-collaborative environment.
+Computer Science graduate with a solid foundation in Python, SQL (MySQL, PostgreSQL), and front-end technologies (HTML, CSS, JavaScript). Skilled in developing both backend logic and interactive web interfaces. Eager to work on real-world projects involving web development, Python automation, data handling, or artificial intelligence and machine learning. Quick to learn new tools and technologies with a strong commitment to clean, maintainable code. Open to entry-level roles including Python Developer, Web Developer, AI/ML Intern, Software Engineer Trainee, or other IT opportunities where I can contribute and grow.
 
 # 💻 Tech Stack:
 
