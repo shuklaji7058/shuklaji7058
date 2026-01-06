@@ -1,10 +1,10 @@
 <div align="center">
   <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-  <h1>Hello World!, I'm Anish, a AI Python Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1>Hello World!, I'm Anish, a Aspiring Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-Computer Science graduate with a solid foundation in Python, SQL (MySQL, PostgreSQL), and front-end technologies (HTML, CSS, JavaScript). Skilled in developing both backend logic and interactive web interfaces. Eager to work on real-world projects involving web development, Python automation, data handling, or artificial intelligence and machine learning. Quick to learn new tools and technologies with a strong commitment to clean, maintainable code. Open to entry-level roles including Python Developer, Web Developer, AI/ML Intern, Software Engineer Trainee, or other IT opportunities where I can contribute and grow.
+Entry-level Data Analyst with strong self-driven experience in Python, SQL, Excel, Power BI, and data visualization. Skilled in collecting, cleaning, analyzing, and presenting data to derive actionable insights. Hands-onexperience building analytical and AI-assisted applications, dashboards, and reporting solutions. Seeking ajunior data analyst role to apply analytical skills in real-world business environments.
 
 # 💻 Tech Stack:
 
