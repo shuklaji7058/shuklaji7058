@@ -1,10 +1,10 @@
 <div align="center">
   <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-  <h1>Hello World!, I'm Anish, a Aspiring Data Analyst <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1>Hello World!, I'm Anish, a Aspiring Software Tester <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-Entry-level Data Analyst with strong self-driven experience in Python, SQL, Excel, Power BI, and data visualization. Skilled in collecting, cleaning, analyzing, and presenting data to derive actionable insights. Hands-onexperience building analytical and AI-assisted applications, dashboards, and reporting solutions. Seeking ajunior data analyst role to apply analytical skills in real-world business environments.
+Computer Science graduate passionate about Software Testing and Quality Assurance. Currently learning Manual Testing and Core Java while building a strong foundation in SDLC, STLC, test case design, bug reporting, JIRA, Git, and GitHub. Eager to learn new technologies, solve problems, and grow as a QA professional.
 
 # 💻 Tech Stack:
 
